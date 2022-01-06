@@ -1,2 +1,2 @@
-# Automa-es_EFD_Contribui-es
+# Automacao_EFD_Contribuicoes
 Projeto de Envio de EFD_Contribuições automática
